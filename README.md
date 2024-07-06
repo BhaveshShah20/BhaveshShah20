@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Bhavesh Shah👋</h1>
-<h3 align="left">As an enthusiastic Software Developer, I currently thrive as an Software Engineer trainee at Rapidqube digital solution, where I transform ideas into innovative solutions. My journey in technology is fueled by a passion for continuous learning and a commitment to staying at the cutting edge of industry advancements. </h3>
- <h2 align="left"> Expertise & Skills</h2>
+<p align="left">As an enthusiastic Software Developer, I currently thrive as an Software Engineer trainee at Rapidqube digital solution, where I transform ideas into innovative solutions. My journey in technology is fueled by a passion for continuous learning and a commitment to staying at the cutting edge of industry advancements. </h3>
+ <h2 align="left"> Expertise & Skills</p>
  <ul>
   <li>- Core java </li>
   <li>- C++</li>
@@ -9,7 +9,7 @@
  <li> - Problem Solving</li>
   <li>- Git/GitHub</li>
   </ul>
-I am passionate about harnessing the power of technology to solve real-world challenges and am always excited to embrace new opportunities. Whether working independently or as part of a dynamic team, I strive to deliver impactful solutions that make a difference. Let's connect and explore how we can collaborate to create the future of technology together!
+<p align="left">I am passionate about harnessing the power of technology to solve real-world challenges and am always excited to embrace new opportunities. Whether working independently or as part of a dynamic team, I strive to deliver impactful solutions that make a difference. Let's connect and explore how we can collaborate to create the future of technology together!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
