@@ -1,13 +1,22 @@
 <h1 align="left">Hi, I'm Bhavesh Shah👋</h1>
-<p align="left">As an enthusiastic Software Developer, I currently thrive as an Software Engineer trainee at Rapidqube digital solution, where I transform ideas into innovative solutions. My journey in technology is fueled by a passion for continuous learning and a commitment to staying at the cutting edge of industry advancements. </p>
+<p align="left"> QA Software Engineer with 1+ years of experience in testing Android and 
+web applications. Proficient in SDLC and STLC, creating test plans, writing 
+test cases, and executing end-to-end functionality testing. Skilled in 
+identifying defects, ensuring synchronization across application 
+components, and optimizing testing strategies. Collaborative team player 
+focused on enhancing software quality and improving testing 
+methodologies </p>
  <h2 align="left"> Expertise & Skills</h2>
  <ul>
   <li>- Core java </li>
-  <li>- C++</li>
+  <li>- Android application testing</li>
+  <li>- Web application testing</li>
+  <li>- Functional testing</li>
   <li>- Oops Concept</li>
-  <li>- Software Development Life Cycle</li>
+  <li>- Software Testing Life Cycle</li>
  <li> - Problem Solving</li>
   <li>- Git/GitHub</li>
+
   </ul>
 <p align="left">I am passionate about harnessing the power of technology to solve real-world challenges and am always excited to embrace new opportunities. Whether working independently or as part of a dynamic team, I strive to deliver impactful solutions that make a difference. Let's connect and explore how we can collaborate to create the future of technology together!</p>
 
