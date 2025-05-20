@@ -14,6 +14,7 @@ methodologies </p>
   <li>- Functional testing</li>
   <li>- Oops Concept</li>
   <li>- Software Testing Life Cycle</li>
+  <li>- Api testing </li>
  <li> - Problem Solving</li>
   <li>- Git/GitHub</li>
 
